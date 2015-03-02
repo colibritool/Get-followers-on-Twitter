@@ -4,4 +4,6 @@ It’s 2015. Twitter has changed. Having fake followers on Twitter is just a bad
 
 The best way to increase these metrics is to have the right audience that is engaging = retweeting and favouriting your tweets.
 
+# Paste follow-people-from-hashtag.js code and follow the instructions
+
 Read more here: https://colibri.io/growth-hacking/how-to-get-followers-on-twitter/
